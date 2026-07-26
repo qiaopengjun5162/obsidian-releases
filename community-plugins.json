@@ -1,5 +1,12 @@
 [
   {
+    "id": "moonpub",
+    "name": "MoonPub",
+    "author": "Paxon Qiao",
+    "description": "从 Obsidian 调用本地 MoonPub，把 Markdown 推进到微信公众号草稿并辅助后台配置。",
+    "repo": "qiaopengjun5162/moonpub"
+  },
+  {
     "id": "table-editor-obsidian",
     "name": "Advanced Tables",
     "author": "tgrosinger",
