@@ -1,12 +1,5 @@
 [
   {
-    "id": "moonpub",
-    "name": "MoonPub",
-    "author": "Paxon Qiao",
-    "description": "从 Obsidian 调用本地 MoonPub，把 Markdown 推进到微信公众号草稿并辅助后台配置。",
-    "repo": "qiaopengjun5162/moonpub"
-  },
-  {
     "id": "table-editor-obsidian",
     "name": "Advanced Tables",
     "author": "tgrosinger",
@@ -42453,5 +42446,12 @@
     "author": "Dustin Stringer",
     "description": "Orchestrate AI agents, workflows, retrieval, memory, and daily operations across your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "scrunchds/Command-Center"
+  },
+  {
+    "id": "moonpub",
+    "name": "MoonPub",
+    "author": "Paxon Qiao",
+    "description": "从 Obsidian 调用本地 MoonPub，把 Markdown 推进到微信公众号草稿并辅助后台配置。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "qiaopengjun5162/moonpub"
   }
 ]
